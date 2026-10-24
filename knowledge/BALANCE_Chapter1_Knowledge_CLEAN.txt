@@ -1,0 +1,1080 @@
+OXFORD MYP CHEMISTRY YEARS 4 & 5 — CHAPTER 1: BALANCE
+Source: User-provided textbook, original book pages 2–25.
+CLEAN EXTRACTION: Acrobat FreeText and Highlight annotations removed.
+This searchable aid excludes atomic-symbol clutter from diagrams. For figures, equations and exact scientific notation, consult the companion CLEAN PDF.
+IMPORTANT: Text order reflects PDF text blocks and may not reproduce every complex diagram or multicolumn figure. Confirm citations against PDF page images.
+
+==========================================================================
+BOOK PAGE 2 — PDF PAGE 1
+==========================================================================
+
+1 Balance
+
+The ozone layer is found in the upper atmosphere, where it acts as a filter preventing over 95% of harmful UV radiation emitted from the Sun from reaching the Earth. Human interactions with the environment may result in the release of substances that can catalyse the breakdown of the ozone molecule. When the balance of the planet’s resources and the environment is disrupted, the consequences are experienced globally. What happens when the balance between ozone production and ozone depletion is disturbed?
+
+Fertilizers are easily solubilized in the soil, rapidly breaking down into ammonia. Soluble ammonia captured in rainwater can wash into aquatic environments resulting in an imbalance affecting the natural ecosystems and commercial aquaculture industries. This often results in the rapid growth of algae in ponds and streams. What is the impact of this increased amount of algae?
+
+
+==========================================================================
+BOOK PAGE 3 — PDF PAGE 2
+==========================================================================
+
+Camping and making a campfire are enjoyable recreational activities. When wood burns, is there an increase in disorder? Matter undergoes a change of state. Is matter still conserved? Can all matter in this combustion reaction be accounted for?
+
+The first law of motion was proposed by Sir Isaac Newton in 1686. Regarded as the definition of inertia, it states that an object will remain at rest or keep moving in a straight line, unless the forces acting on the object become unbalanced due to an external force being applied. Voyager 2 is a deep space probe that was launched by NASA in 1977. It will maintain an approximate speed of 55,000 km h–1 indefinitely unless the forces acting upon it become unbalanced. How has Newton’s first law of motion helped us to explore the Universe that we live in?
+
+
+==========================================================================
+BOOK PAGE 4 — PDF PAGE 3
+==========================================================================
+
+Introduction
+
+Systems within our universe are dynamic. They constantly undergo both internal and external changes, which require these systems to react and respond. Biological organisms rely on the process of homeostasis to regulate changes that occur within systems and maintain balance. Ecosystems are a dynamic environment of multiple components. Abiotic components include the physical surroundings such as sunlight, water and the soil in which the plants grow. Biotic components include the producers and consumers living within the ecosystem. All of these components contribute to maintaining the balance in conditions and relationships. Uncontrolled development applies external pressures on ecosystems, resulting in an imbalance.
+
+Chemical and physical systems display characteristics that involve a balance in matter and energy, referred to as equilibrium. The control over the balance between reactants and products is essential in many industrial processes and synthetic reactions.
+
+Key concept: Relationships
+
+Related concept: Balance
+
+Global context: Fairness and
+
+development
+
+Statement of inquiry:
+
+Imbalanced relationships affect finite resources, both locally and globally.
+
+BALANCE
+
+
+==========================================================================
+BOOK PAGE 5 — PDF PAGE 4
+==========================================================================
+
+Is there balance within the universe?
+
+Systems within the universe fall into and out of balance constantly. Imbalanced relationships often have far-reaching effects, so our ability to understand the reasons why a system becomes unbalanced, and in turn rebalanced, is of fundamental importance. In our everyday lives, we too experience changes in balance.
+
+● Biological systems undergo continual change, and to maintain balance is challenging. The diversity of ecosystems, organisms and micro-climates across our planet is immense; and marine environments are some of our planet’s largest ecosystems.
+
+● The relationship between organisms and their environments is a delicate balance.
+
+● When excess amounts of nutrients enter a marine ecosystem as the result of increased industrial or agricultural runoff or natural changes in the amounts of available nutrients, this can have a significant and destructive impact.
+
+What are examples of entropy in daily life?
+
+Entropy (S) is defined in chemistry as a measure of the distribution of total available energy between particles in a system. The conservation of energy is a fundamental principle of science. When a system has decreasing order and increasing disorder, it is said that its entropy is increasing. However, the total energy within the system remains balanced even when it is distributed in a different way.
+
+PHYSICAL
+
+Harmful algal blooms in marine ecosystems have a major impact within these environments causing an imbalance in the ecosystem. How is aquafarming affected by these occurrences? How might this be a threat to human health?
+
+NaCl(s) + H2O(l) ➝ NaCl(aq) When you dissolve sodium chloride in water, the solid ionic compound breaks down into its ions. This change of state from a solid to a liquid is an example of an increase in entropy. The solid lattice structure of sodium chloride is broken down and the ions are free to move in the solution. The amount of disorder increases
+
+GENERAL
+
+
+==========================================================================
+BOOK PAGE 6 — PDF PAGE 5
+==========================================================================
+
+Reflective skills
+
+Develop new skills, techniques and strategies for effective learning
+
+Knowledge, skills and understanding are the trilogy of learning. When you graduate from high school, you should aim to take with you knowledge, the skills necessary to acquire knowledge and an understanding of the concepts that you have studied.
+
+Knowledge consists of facts and figures that are ready for you to use. They are often easy to recall and many times are not open to debate. Examples of knowledge in chemistry include:
+
+● The three main states of matter: solids, liquids and gases.
+
+● The formulae of elements and compounds. For example, with oxygen, the element has the symbol O and the formula of the compound oxygen is O2
+
+● In a chemical reaction, reactants are on the left-hand side of a chemical equation and products are on the right-hand side.
+
+● Acids are corrosive and have a low pH.
+
+● The main greenhouse gas is carbon dioxide with a chemical formula of CO2 Skills are the strategies you develop in order to acquire knowledge and build understanding. The Approaches to Learning skills that we will encounter through this book will help you develop the necessary skills to build your knowledge base and deepen your understanding of scientific concepts.
+
+Understanding is your ability to use your skills and your knowledge, apply them to new contexts and advance your understanding of a concept. It is your understanding of the concepts that enables you to build your knowledge base.
+
+Both languages and symbols are forms of communication that transcend borders, allowing global citizens to communicate with each other. The scientific community uses elemental symbols, formulae and balanced chemical equations to communicate large amounts of information, enabling us to understand what elements and compounds are involved in a chemical reaction.
+
+Entropy in your daily life
+
+With the definition of entropy in mind, brainstorm in a small group within your class and identify systems that make up our daily life that have either increasing or decreasing entropy. Justify your choices with supporting arguments. When you have decided on your examples, collectively decide on an effective way to summarize your information so that it can be presented to the other members of the class. Remember that it is important to acknowledge other people’s work by creating references and citations in your presentations.
+
+BALANCE
+
+
+==========================================================================
+BOOK PAGE 7 — PDF PAGE 6
+==========================================================================
+
+What can a balanced chemical equation
+
+tell us about a reaction?
+
+The study of chemical reactions focuses on substances that are undergoing change. A clear understanding of the energy changes occurring in a chemical reaction is also essential if we are to understand how the reaction occurs under a given set of conditions. The changing balance in energy between reactants and products needs to be understood.
+
+Energy can neither be created nor destroyed, but is converted from one form of energy to another or transferred from one substance to another. The relationship that exists between a system, its surroundings and the universe is well understood (see Chapter 5, Conditions).
+
+The law of conservation of matter states that matter is neither created nor destroyed. Instead, in a chemical reaction, matter is changed from one form to another and can be accounted for at any given time.
+
+All of the resources we use in chemical reactions are in finite supply, but some will be rarer in terms of natural abundance and more expensive. Most reactants in chemical processes are typically less expensive or less finite resources, and are said to be “in excess”. It is fundamentally important that we understand the stoichiometric amounts of the reactants required for a given reaction, so that a valuable finite resource is the limiting reactant. A limiting reactant determines the amount of product resulting from a chemical reaction. By designing a method that attempts to completely consume the limiting reagent in the reaction, we minimize wasting valuable resources.
+
+QUANTITATIVE
+
+Chemists focus on the system when examining chemical reactions. Matter or energy can flow into and out of an open system altering the balance. This is the more common system being examined. In a closed system, energy can enter and leave the system but the amount of matter remains constant. In an isolated system, both matter and energy cannot enter or leave the system
+
+John Dalton’s symbolic and visual representations of the atom, published in 1808 in the New System of Chemical Philosophy
+
+Matter
+
+Open system
+
+Closed system
+
+Isolated
+
+system
+
+
+==========================================================================
+BOOK PAGE 8 — PDF PAGE 7
+==========================================================================
+
+How do chemists manage finite resources in chemical reactions?
+
+Mathematics, the language of science, communicates that a balanced chemical equation is a proportional relationship between reactants and products. At the atomic level, individual atoms of elements are reacting with each other to form new compounds. How do we make sense of this at the macroscopic level?
+
+The reactions between elements and compounds, and the chemical and physical properties of reactants and products are the focus of chemical research. Many different types of chemical reactions exist, such as combustion, single replacement, synthesis, decomposition and reduction- oxidation. In simple terms, a chemical reaction is a rearrangement of atoms, involving the breaking and making of bonds in the reactants and products. How then do we balance a chemical equation?
+
+Rules for balancing chemical equations
+
+1. Balance the atoms of the metal element on the reactant and
+
+product side of the reaction first.
+
+2. Balance the atoms of any element found in only one chemical
+
+formula on either side of the reaction.
+
+3. Balance the atoms of any remaining elements, if required.
+
+4. Check to see that there are the same number of atoms of each
+
+element on both sides of the chemical equation.
+
+Transition metal nomenclature
+
+When metallic elements have more than one oxidation state, such as transition elements, Roman numerals are used to represent the oxidation number. For example, iron(III), copper(II), manganese(VII).
+
+QUANTITATIVE
+
+With a single proton, hydrogen is the simplest element that exists. This is the first image ever recorded of the orbital structure of a hydrogen atom. The instrument used to record the image is called a quantum microscope
+
+Thinking in context
+
+Finite resources
+
+As economic development throughout the world places demands on the planet’s finite resources, we can debate the consequences of connections between fairness and development and finite resources. Your task is to collect and analyze information that enables you to undertake informed discussion with your peers on the following questions:
+
+1. What are some examples of finite resources that are closely managed in an attempt to ensure fair
+
+and equitable distribution?
+
+2. Who decides on the distribution of resources within communities and between all living things?
+
+3. What structures are in place within societies to monitor and protect the reserves of finite
+
+resources?
+
+Should some societies be able to consume more finite resources than others? 4
+
+BALANCE
+
+
+==========================================================================
+BOOK PAGE 9 — PDF PAGE 8
+==========================================================================
+
+1. Fertilizers are produced by a reaction between an acid and ammonia.
+
+The following word equations summarize the formation of a variety of fertilizers. Write balanced chemical equations for these, including the states of matter for all reactants and products.
+
+a) Ammonia + nitric acid ➝ ammonium nitrate
+
+b) Ammonia + sulfuric acid ➝ ammonium sulfate
+
+c) Ammonia + phosphoric acid ➝ ammonium phosphate
+
+d) Potassium hydroxide + nitric acid ➝ potassium nitrate + water
+
+Worked example: Balancing equations
+
+Question
+
+Metallic iron rusts in the presence of oxygen and water, losing three electrons to form the iron(III) cation. This is an oxidation reaction impacting steel and iron structures such as automobiles and bridges, causing hundreds of millions of dollars in damages each year.
+
+iron + oxygen ➝ iron(III) oxide
+
+Fe(s) + O2(g) ➝ Fe2O3(s)
+
+Balance the equation shown.
+
+Answer
+
+First, we need to balance the metal element, in this case iron. There is one iron atom on the reactant side and two iron atoms on the product side of the equation. Add a coefficient of 2 on the reactant side to the element iron: the metal element is balanced.
+
+2Fe(s) + O2(g) ➝ Fe2O3(s)
+
+Then we need to balance elements found in only one chemical formula. Oxygen is only found in one chemical formula, molecular oxygen, on the left side of the equation. There are an even number of oxygen atoms on the reactant side and an odd number of oxygen atoms on the product side.
+
+In mathematics, when adding fractions that have a different denominator, you calculate the lowest common denominator (LCD).
+
+The LCD of 2 and 3 is 6. The number of atoms of oxygen on the reactant and product side must be 6.
+
+2Fe(s) + 3O2(g) ➝ 2Fe2O3(s)
+
+Then, we need to balance any remaining elements and perform a final check to see whether there are the same number of atoms of each element on both sides of the equation. There are not any remaining elements we haven’t looked at, but the previous step has imbalanced the number of iron atoms. We therefore need to double the coefficient for the iron atoms on the reactant side.
+
+4Fe(s) + 3O2(g) ➝ 2Fe2O3(s)
+
+
+==========================================================================
+BOOK PAGE 10 — PDF PAGE 9
+==========================================================================
+
+2. The combustion of methane gas is an important source of energy.
+
+Methane is the most abundant compound in natural gas. Balance the chemical equation for the combustion of methane.
+
+CH4(g) + O2(g) ➝ CO2(g) + H2O(g)
+
+3. Aluminium and iron are both common metals used in the
+
+manufacturing and construction industries. While iron is easily oxidized in the presence of water and oxygen, known as rusting, aluminium forms an oxide layer that prevents further oxidation. Balance the following chemical equations:
+
+a) Al(s) + O2(g) ➝ Al2O3(s)
+
+b) Fe(s) + O2(g) ➝ Fe2O3(s)
+
+Testing for the copper(II), iron(II) and iron(III) ions
+
+There are two standard analytical tests for the presence of copper(II), iron(II) and iron(III) ions in a solution, one involving the addition of sodium hydroxide and the other the addition of ammonia solution. The formation of insoluble metal hydroxides leads to the identification of these ions, as characteristic color changes can be observed.
+
+Materials
+
+● 0.5 mol dm–3 copper(II) nitrate
+
+● 0.5 mol dm–3 iron(II) nitrate
+
+● 0.5 mol dm–3 iron(III) nitrate
+
+● 1.0 mol dm–3 ammonium nitrate
+
+● 1.0 mol dm–3 sodium hydroxide
+
+● Test tubes and rack
+
+● Dropping pipettes
+
+Method and questions
+
+1. Using a dropping pipette, transfer 3–5 cm3
+
+of 0.5 mol dm–3 copper(II) nitrate solution into a test tube and observe the color.
+
+2. Then, using a different pipette, add
+
+1.0 mol dm–3 sodium hydroxide solution in a dropwise manner. Record your observations in the table below.
+
+3. Continue adding the sodium hydroxide
+
+solution and observe any changes that are taking place. Record your observations in the table below.
+
+Metal cation Initial observations
+
+Final observations (sodium hydroxide reaction)
+
+4. Repeat steps 1–3 with fresh solutions of
+
+each of the metal ion solutions.
+
+5. Repeat steps 1–3 with fresh solutions
+
+of each of the metal ion solutions and 1.0 mol dm–3 ammonium nitrate solution. Create a similar table to record your observations when excess ammonium nitrate is used.
+
+BALANCE
+
+
+==========================================================================
+BOOK PAGE 11 — PDF PAGE 10
+==========================================================================
+
+Information literacy and communication skills
+
+Read critically and for comprehension
+
+In 1998, recognizing that our planet has a finite amount of resources and that the pace of industrialization and consumer-based economies was having a negative impact on the environment, Paul Anastas and John Warner developed a series of twelve guiding principles for chemical industries and manufacturing to follow when performing chemical synthesis and other chemical reactions. These principles are:
+
+1. Prevent waste
+
+2. Use of renewable feedstock
+
+3. Atom economy
+
+4. Reduce derivatives
+
+5. Less hazardous waste
+
+6. Catalysts
+
+7. Design benign chemicals
+
+8. Design for degradation
+
+9. Benign solvents and auxiliaries
+
+10. Real-time analysis for pollution prevention
+
+11. Design for energy efficiency
+
+12. Inherently benign chemistry for accident
+
+prevention
+
+Anastas and Warner held the belief that there was a need for industry to reduce the amount of waste, both hazardous and non-hazardous, by devising methods that would create fewer unwanted products. Some of their proposed
+
+methods include: using less toxic solvents which could harm the environment, using renewable materials where possible (rather than diminishing the amount of finite resources)*, and using methodologies and building industrial infrastructure to prevent the loss of energy and recycle excess energy. Their initiatives have been embraced by many sectors of industry and governments alike, and in some countries the principles of green chemistry have been transformed into laws that govern the use of chemical technology.
+
+Discuss the merits, and the large scale applicability, of green chemistry principles.
+
+Research some examples of how green chemistry has been incorporated into existing industrial manufacturing systems to increase efficiency and decrease environmental effects. Some questions to consider include:
+
+1. What are some characteristics of balanced
+
+industrial manufacturing systems?
+
+2. How can imbalanced relationships produce
+
+both local and global effects?
+
+*The law of conservation of matter states that matter can be neither created nor destroyed; however, non-renewable resources are considered to be finite as a consequence of the time required for them to form. As non-renewable resources are transformed into different compounds, the atoms are rearranged rather than lost. Discuss why some people within the international community are concerned about the decrease in availability of non-renewable resources.
+
+What is a chemical equilibrium?
+
+Many systems, including chemical reactions, exist in a state of equilibrium. An example of this is the hemoglobin-oxygen interaction: hemoglobin is the iron-containing protein in red blood cells, which is responsible for transporting oxygen to cells. Each hemoglobin molecule can carry up to four oxygen atoms, and the equilibrium reaction can be expressed as follows (where “Hb” represents hemoglobin):
+
+Hb(aq) + 4O2(g) Hb(O2)4(aq)
+
+This equilibrium is maintained as long as sufficient oxygen is supplied.
+
+GENERAL
+
+
+==========================================================================
+BOOK PAGE 12 — PDF PAGE 11
+==========================================================================
+
+What impact did the Haber process have on our planet?
+
+German chemist Fritz Haber was awarded the Nobel Prize in Chemistry in 1918 for developing a method to synthetically fix nitrogen from the air. Before Haber’s successful breakthrough, science had been unable to synthetically replicate this biological process.
+
+Haber’s discovery allowed for the large scale production of fertilizers that began during the Green Revolution and continues today. His process also provided Germany with a source of ammonia that was used for the production of explosives during World War I. The Green Revolution began in the mid-20th century, when advances
+
+GENERAL
+
+Many fish have an organ called a swim bladder. This increases their ability to control buoyancy and therefore more easily maintain a preferred water depth without constantly swimming. These fish can be considered to be in balance with their environment
+
+Gaseous nitrogen
+
+combines with gaseous hydrogen in
+
+simple quantitative
+
+proportions to produce gaseous
+
+ammonia. Fritz Haber
+
+Thinking in context
+
+Fairness and development
+
+In some cases, social and economic development throughout the world has led to greater control of the planet’s finite resources. We therefore can consider some possible connections to fairness and development with respect to these finite resources. With this in mind, discuss the following questions in small groups:
+
+To what extent should scientists consider moral and ethical obligations when conducting their research?
+
+When scientific research and discoveries have the potential to disrupt balance, to what extent are governments responsible for safeguarding society from this research and these discoveries?
+
+BALANCE
+
+
+==========================================================================
+BOOK PAGE 13 — PDF PAGE 12
+==========================================================================
+
+in chemical fertilizers, synthetic pesticides and herbicides changed the face of agriculture forever. Advances brought a new method of growing crops called high-crop yield, which improved the amount of food crops being produced and available to feed a growing global population. The Green Revolution, with the help of science and technology, continues today.
+
+What do you envision when you hear the term “chemical equilibrium”? Perhaps you consider that a better understanding of a chemical reaction and the optimal conditions for it to occur will enable you to better control the reaction. Industrial chemists understand that in order to maximize their product yield, they have to analyze how reactions work and how efficiency within these reactions can be increased. This can often involve the manipulation of finite resources.
+
+In economic terms, equilibrium occurs when supply and demand are equal. In a chemical system at equilibrium, the forward and reverse reaction rates are equal. No changes in the macroscopic properties of the reaction are observed when a system has reached equilibrium. The position of the equilibrium is dependent on the chemical reaction and the conditions under which it is taking place. Some chemical reactions favour the product side, while other chemical reactions favour the reactant side.
+
+The large scale, industrial production of ammonia is an example of a once finite resource becoming much more easily controlled
+
+Equilibrium is linked to a stable balance where objects and systems are static. In chemical systems, reactions at equilibrium are dynamic but the concentrations of reactants and products remain constant
+
+
+==========================================================================
+BOOK PAGE 14 — PDF PAGE 13
+==========================================================================
+
+How has industrial-scaled ammonia production impacted the global population?
+
+At the beginning of the 20th century when the population of the world was 1.6 billion people, a shortage of synthetically produced fertilizers and a growing demand for increased food production encouraged Fritz Haber to develop a method that would enable the large scale production of ammonia. As ammonia is an essential component used to provide nitrogen for crop fertilizers, today the annual global production of ammonia stands at over 150 million tonnes and rising. Ammonia is mainly converted into other important compounds such as nitric acid, HNO3, ammonium nitrate, NH4NO3, ammonium sulfate, (NH4)2 SO4, and urea, NH2CONH2 The Haber process involves the reaction of 1 mol of nitrogen gas and 3 moles of hydrogen gas in the presence of a catalyst:
+
+N2(g) + 3H2(g) 2NH3(g) H = –92 kJ mol–1
+
+Haber’s genius was to investigate and propose the ideal conditions under which the highest yield possible would be achieved in the shortest amount of time. He did this by determining the ideal temperature and pressure for the reaction.
+
+How do changes in reaction conditions affect an equilibrium system?
+
+A number of very significant industrial processes, including
+
+the production of ethanol and ammonia, are reversible
+
+reactions and can be explained by the application of Le
+
+Chatelier’s principle. This principle states that if a system
+
+in equilibrium is disturbed by changes in temperature,
+
+pressure or concentration of the components, the
+
+system acts to oppose the change and rebalance
+
+the system.
+
+This principle is named after Henry Louis Le Chatelier, a French chemist whose pioneering work opened the door to a better understanding of how equilibrium reactions behave. As we will see, this principle has critical implications for the production of ammonia (once considered a finite resource) and its use in large-scale agricultural applications.
+
+According to Le Chatelier’s principle, when a change is made to the conditions of a chemical equilibrium, the position of the equilibrium will readjust to minimise the change made. The balance between the forward and reverse reactions will shift to offset the change and return the system to equilibrium.
+
+GENERAL
+
+GENERAL
+
+In 1901, Le Chatelier unsuccessfully attempted nitrogen fixation in his laboratory, resulting in a massive explosion. The process was later perfected by Fritz Haber
+
+BALANCE
+
+
+==========================================================================
+BOOK PAGE 15 — PDF PAGE 14
+==========================================================================
+
+At equilibrium:
+
+● The forward and reverse reactions are occurring at equal rates and no overall changes are produced.
+
+● The concentrations of reactants and products remain constant.
+
+● Within the reactant/product mixture, there is no change in the observable (macroscopic) properties such as color and density.
+
+Reactants
+
+Products
+
+This reaction is in equilibrium. The concentration of reactants is twice that of the products.
+
+More reactants have been added. The equilibrium has been disturbed.
+
+The equilibrium shifts to the right. Reactants are changed into products until the equilibrium is restored. The relative concentrations of reactants and products are the same as before.
+
+Thinking in context
+
+Monocultures and food security
+
+The use of synthetic fertilizers is a predominant global trend in agriculture. The Green Revolution allows, for the first time in mankind’s history, for food production to be in excess of the increasing demand. However, the monocultures that dominate the agricultural landscape today are often viewed as unsustainable. While the productivity of annual food crops is of vital importance for feeding an ever growing world population, it can be argued that the prevalence of monocultures that dominate the global agricultural landscape is actually a threat to food security, the continuation of species and the conservation of natural resources throughout our planet.
+
+According to the United Nations World Food Programme: “People are considered food secure when they have available access at all times to sufficient, safe, nutritious food to maintain a healthy and active life.”
+
+Research some of the threats posed by the monoculture model, considering both threats to food security and to the conservation of natural resources. Some questions you can consider include:
+
+1. What are some characteristics of balanced agricultural systems with regard to
+
+crop selection and crop rotation?
+
+2. What are some of the possible alternatives to monocultures?
+
+3. How can imbalanced relationships produce both local and global effects?
+
+4. How are imbalances in traditional weather patterns and climate trends affecting
+
+agricultural communities around the world?
+
+
+==========================================================================
+BOOK PAGE 16 — PDF PAGE 15
+==========================================================================
+
+What changes will affect the equilibrium
+
+position in the Haber process? Concentration of reactants or products
+
+According to Le Chatelier’s principle, at a given temperature, the position of the equilibrium will change in response to a change in concentration of reactants or products. When industry collects ammonia by changing the pressure, thereby decreasing the concentration of ammonia present in the reaction vessel, the equilibrium will change to counteract this change.
+
+When the concentration of one or more reactants is increased, the forward reaction will be favoured to minimize this change. Effectively, the reaction will try to use up the additional reactants. By decreasing the concentration of a product, the forward reaction will also be favoured to replenish the missing products. Both of these changes in concentration help to force the reaction in the forward direction and manufacture more ammonia.
+
+Chemists and chemical engineers who work at ammonia production facilities understand the principles of the Haber process and adjust reaction conditions to maximize yield and in turn profits. Pressure
+
+The Haber process is an equilibrium system that involves only substances in the gaseous state. This means that the system will be affected by changes in applied pressure. In this reaction, the number of moles of gas on the reactant and product side is unequal. How many moles of gas are on the reactant side and how many are on the product side?
+
+A change in pressure applied to the system will result in a shift in the equilibrium position, either favouring the forward or reverse reactions.
+
+Consider the fact that 1 mol of a gas under standard conditions (temperature of 273 K and pressure of 1 atm) occupies 22.7 dm3 of volume.
+
+According to Le Chatelier’s principle, an increase in pressure applied to the system will favour the side of the reaction with the least number of moles of a gas. For example, in the case of nitrogen gas reacting with hydrogen gas, the forward reaction is favoured and the yield increases:
+
+N2 + H2 + H2 + H2 NH3 + NH3 Temperature
+
+The production of ammonia is an exothermic process, where energy is released as heat into the surroundings during the reaction. The reverse reaction, which produces hydrogen and nitrogen gas, is therefore endothermic, and takes in energy from the surroundings. When the system is at equilibrium, the forward and reverse reactions
+
+GENERAL
+
+An industrial ammonia production plant
+
+Gas molecules are normally far apart and moving at high velocities. By lowering the temperature and increasing the pressure of a closed system, gas molecules move closer to each other and eventually undergo a change of state from gas to liquid. This process is known as liquefaction.
+
+BALANCE
+
+
+==========================================================================
+BOOK PAGE 17 — PDF PAGE 16
+==========================================================================
+
+occur at equal rates and there is no change in energy. Increasing the temperature of a reaction effectively adds additional reactant for an endothermic reaction, or product for an exothermic reaction. Therefore in the Haber process, increasing the temperature is adding to the ammonia side, so the reverse reaction is favoured to balance the equilibrium.
+
+● What has happened to the yield when the temperature is increased?
+
+● What is the advantage of increasing the temperature of the system?
+
+transition state
+
+products
+
+progress of reaction
+
+reactants
+
+energy
+
+activation energy Ea
+
+How does the total amount of energy contained in the reactants compare to the products? Which substances will be more energetically stable, reactants or products?
+
+Making fertilizer
+
+Safety
+
+● Wear eye protection
+
+● Sulfuric acid is corrosive—avoid contact with the skin
+
+● Ammonia is a corrosive gas to the respiratory system—perform the experiment in a well ventilated room or fume hood.
+
+Materials
+
+● 1.0 mol dm–3 sulfuric acid
+
+● 1.0 mol dm–3 ammonia solution
+
+● 25 cm2 measuring cylinder
+
+● Porcelain evaporating basin
+
+● Universal indicator paper
+
+● Bunsen burner
+
+Method
+
+1. Measure 20 cm2 of 1.0 mol dm–3 sulfuric
+
+acid with a measuring cylinder and transfer it into a porcelain evaporating basin. Place the basin on top of a wire gauze and tripod.
+
+2. With a dropping pipette, slowly add small
+
+amounts of 1.0 mol dm–3 ammonia solution
+
+to the basin until there is a constant smell of ammonia coming from the mixture.
+
+3. After each small addition, check the pH of
+
+the solution by stirring the mixture with a glass stirring rod and placing a drop of the liquid onto a piece of universal indicator paper.
+
+4. When the pH has moved above 7.0,
+
+sufficient ammonia has been added.
+
+5. Over a moderate Bunsen burner flame,
+
+warm the solution until it has reduced in volume to about 20% of the original. Care should be taken not to allow the solution to be heated too strongly as the solution may spit.
+
+6. When crystals begin to form in the basin,
+
+cool, filter and allow the crystals to dry.
+
+Questions
+
+1. Write the word and balanced chemical
+
+equation for the reaction.
+
+2. Which element found in the product is
+
+responsible for plant growth? Explain your answer.
+
+
+==========================================================================
+BOOK PAGE 18 — PDF PAGE 17
+==========================================================================
+
+Uses of nitrogen-containing chemicals
+
+Gather information from a variety of sources about the main uses of the chemicals nitric acid, HNO3, ammonium nitrate, NH4NO3, ammonium sulfate, (NH4)2SO4 and urea, NH2CONH2. Structure the information as a summary and present it. Based on your research, share ideas with your peers, while answering the following question: Why must the total amount of ammonia production keep increasing each year?
+
+Research
+
+1. What is the source of the
+
+reactants, nitrogen and hydrogen, used in the Haber process?
+
+2. Write a balanced chemical
+
+equation for the production of hydrogen gas.
+
+Urea is a commonly used component of fertilizers and an integral part of the agricultural industry
+
+Data-based question: Industrial reaction conditions for the production of ammonia
+
+1. What temperature achieves the
+
+highest yield of ammonia? [1]
+
+2. Describe how the yield changes
+
+as the pressure is increased. [1]
+
+3. The ideal temperature used by
+
+Haber is approximately 450°C. Outline the reasons why a higher temperature would be used to increase production of ammonia instead of a lower temperature. [2]
+
+4. A pressure of 200 atm is used
+
+during the process. Why does industry not use a much higher pressure to maximise yield? [2]
+
+5. Explain with reference to the
+
+position of the equilibrium why increasing the pressure of this closed system favours the forward reaction. [2]
+
+pressure (atm)
+
+yield of ammonia (%)
+
+BALANCE
+
+
+==========================================================================
+BOOK PAGE 19 — PDF PAGE 18
+==========================================================================
+
+Thinking in context
+
+Fertilizers vs. pesticides, and CCD
+
+Fertilizers and pesticides are both classes of synthetic compounds used in the agricultural industry; while fertilizers are typically nitrogen- based and applied to increase plant growth/ yield, pesticides are applied to control insects considered to be crop pests. Imidacloprid is a pesticide belonging to the class of chemicals called neonicotinoids, which destroys insects by producing fatal effects within their central nervous system.
+
+Chemical structure of imidacloprid
+
+Both fertilizers and pesticides have been documented to disrupt balance within environments. Of particular concern are recently documented links between honey bee exposure to imidacloprid and an increase in the rate of colony collapse disorder (CCD). In January 2013 the European Food Safety
+
+Authority stated that the use of imidacloprid presents an unacceptably high risk to honey bees and that the industry-sponsored scientific research and findings, upon which claims of safety have relied upon, may be flawed.
+
+Research some of the current data related to colony collapse disorder (causes, effects, where it is occurring, solutions), and what the implications to our global food supply will be if pollinators continue to decrease in numbers on a large scale. Some questions to consider include:
+
+1. Might pollinators be considered a finite
+
+resource? Why or why not?
+
+2. What are some characteristics of balanced
+
+agricultural systems with regard to pollinators?
+
+When scientific discoveries disrupt balance (for example, the design and application of imidacloprid), to what extent are governments responsible for safeguarding society from the harmful effects?
+
+4. How are imbalances in the number of
+
+pollinators and beekeepers affecting agricultural communities around the world?
+
+5. How can imbalanced relationships produce
+
+both local and global effects?
+
+Decomposition of ammonium chloride
+
+Safety
+
+● Wear eye protection
+
+● Perform this reaction in a well ventilated area
+
+Materials
+
+● Solid ammonium chloride
+
+● Bunsen burner and tongs
+
+Pre-investigation question
+
+How do you test for the presence of ammonia gas?
+
+
+==========================================================================
+BOOK PAGE 20 — PDF PAGE 19
+==========================================================================
+
+Method
+
+1. Place 1–2 cm of ammonium chloride powder into the bottom
+
+2. Light the Bunsen burner and slowly pass the test tube
+
+through a strong flame until you observe evidence that the reaction has started. At this point, stop heating the test tube.
+
+Questions
+
+1. What do you observe when the test tube of ammonium
+
+chloride is heated?
+
+2. A white solid is observed at the top of the test tube? Can you
+
+identify the substance?
+
+3. Explain why this solid has re-formed away from the source
+
+The decomposition of ammonium chloride is an endothermic reaction which demonstrates the reversible nature of some chemical reactions
+
+Testing for the ammonium ion
+
+Safety
+
+● Wear eye protection
+
+● Reaction must be performed in the fume hood
+
+● Concentrated hydrochloric acid is a highly corrosive substance and should not be handled by students
+
+● Ammonia gas is harmful to the respiratory system when inhaled
+
+Materials
+
+● 1 mol dm–3 sodium hydroxide
+
+● Solid ammonium chloride salt
+
+● 6 mol dm–3 hydrochloric acid
+
+● Red litmus paper
+
+● Test tube and tube rack
+
+● Dropping pipette
+
+● Spatula
+
+● Bunsen burner
+
+Method
+
+1. Using a dropping pipette, transfer 2cm3 of
+
+1mol dm–3 sodium hydroxide into a test tube.
+
+2. Add 1 flat spatula of solid ammonium
+
+chloride salt.
+
+3. Gently warm the contents of the test tube
+
+by passing it back and forth through a Bunsen burner flame.
+
+4. Replace the test tube in the test tube rack
+
+and hold a piece of damp red litmus paper at the rim of the test tube. Record any observations.
+
+5. Dip a stirring rod into concentrated
+
+hydrochloric acid (corrosive) and place the stirring rod at the tip of the test tube. What do you observe?
+
+Questions
+
+1. Name some other compounds that react
+
+with damp red litmus paper. What do they all have in common?
+
+2. Construct a balanced chemical equation
+
+to describe the reaction that you observed when you heated the mixture.
+
+3. Give the name and formula of the product
+
+of the reaction between ammonia and concentrated hydrochloric acid.
+
+BALANCE
+
+
+==========================================================================
+BOOK PAGE 21 — PDF PAGE 20
+==========================================================================
+
+ionized un-ionized
+
+Ammonia gas, NH3, is a noxious gas with a strong pungent smell. Ammonia is often confused with the ammonium ion, NH4
+
+How are equilibrium systems controlled infiindustrial processes?
+
+Each year, the Contact process is used to produce over 200 million tonnes of sulfuric acid. Over 50% of total global production is used to manufacture phosphoric acid, H3PO4. Important products from the reactions of sulfuric acid and phosphoric acid include the fertilizers ammonium sulfate and ammonium phosphate. Sulfuric acid is used in many other processes including the manufacture of plastics, batteries and paints.
+
+The Contact process is the conversion of sulfur dioxide into sulfur trioxide:
+
+2SO2(g) + O2(g) 2SO3(g) H° = –196kJ mol–1
+
+This process again utilises Le Chatelier’s principle. The reactant side of this chemical reaction contains 3 moles of gases while the product side contains 2 moles of a gas. By raising the pressure of this system, the equilibrium will move to reduce the pressure and the forward reaction will be favoured. This will increase the yield of sulfur trioxide. Catalysts are also added to the reaction mixture to maximise the rate of production.
+
+The Ostwald process: nitric acid production
+
+The Ostwald process is another industrial application of Le Chatelier’s principle. This process is used for making nitric acid and involves the catalytic oxidation of ammonia (Haber process), as the first step.
+
+Research the oxidation of ammonia through the Ostwald process, and respond to the following questions:
+
+1. What is oxidation?
+
+2. Explain the equilibrium process involved and the conditions used in this reaction.
+
+3. What is nitric acid used for?
+
+4. State the role of nitric acid in this industrial process. Give some other examples of catalysts
+
+being used in industrial processes.
+
+GENERAL
+
+Phosphate
+
+fertilizers
+
+Others 24%
+
+Phosphates 6%
+
+Metal processing 10%
+
+Fibres 5%
+
+Hydrofluoric acid 2% Paints, pigments 2% Pulp, paper 1%
+
+The uses of sulfuric acid
+
+
+==========================================================================
+BOOK PAGE 22 — PDF PAGE 21
+==========================================================================
+
+Summative assessment
+
+Statement of inquiry:
+
+Imbalanced relationships affect finite resources, both locally and globally.
+
+Introduction
+
+In this summative assessment, you will first look at how Le Chatelier’s principle can be used to predict the effect of changes on the equilibrium position of chemical reactions. You will then design a simple experiment to demonstrate how changing reaction conditions can alter the chemical equilibrium. Next, you will analyse experimental data and suggest what changes in reaction conditions have taken place. Finally, you will look the impact large-scale fertilizer production and usage is having on the global community.
+
+Le Chatelier’s principle
+
+Le Chatelier’s principle states that if a system in equilibrium is disturbed by changes in temperature, pressure, and/or concentration of the components, the system will shift the position of the equilibrium to counteract the change and return the system to balance.
+
+For each of the following chemical reactions, examine the reactants and products and their states of matter, and decide how the change in reaction conditions will affect the position of the equilibrium.
+
+1. The Haber process describes the industrial production of ammonia
+
+gas on a large scale:
+
+N2(g) + 3H2(g) 2NH3(g) H° = –92 kJ mol–1
+
+Predict the effect of the following changes on the position of the equilibrium in the Haber process.
+
+a) Nitrogen gas is added to the system at equilibrium. [1]
+
+b) Hydrogen gas is removed from the system at equilibrium. [1]
+
+c) The pressure of the system is decreased. [2]
+
+d) The temperature of the system is increased. [2]
+
+2. The decomposition of sulfur trioxide is an endothermic process:
+
+2SO3(g) 2SO2(g) + O2(g) H° = +196 kJ mol–1
+
+BALANCE
+
+
+==========================================================================
+BOOK PAGE 23 — PDF PAGE 22
+==========================================================================
+
+Predict the effect of the following changes on the position of the equilibrium:
+
+a) Sulfur trioxide gas is removed from the system at equilibrium. [1]
+
+b) Oxygen gas is removed from the system at equilibrium. [1]
+
+c) The pressure of the system is increased. [2]
+
+d) The temperature of the system is decreased. [2]
+
+Exploring changes in equilibrium reactions
+
+When the cobalt(II) chloride, a blue transition metal complex, is dissolved in water, it establishes an equilibrium with the pink colored cobalt(II) hexahydrate ion. The forward reaction in this equilibrium is exothermic.
+
+[CoCl4]2–(s) + 6H2O(l) [Co(H2O)6]2+(aq) + 4Cl (aq) H0 = –X kJ mol–1
+
+3. Design an experiment that enables you to observe how the
+
+equilibrium of this system can be changed using the following materials: cobalt(II) chloride hexahydrate powder, 2mol dm–3
+
+hydrochloric acid and distilled water.
+
+Your design should include the following features:
+
+● a method (including all apparatus) used to establish the initial equilibrium
+
+● two different methods used to demonstrate how the equilibrium position can be altered
+
+● an appropriate way of recording both quantitative and qualitative observations of the reactions you are performing
+
+● details of the variables being controlled and evidence of an awareness of safety issues. [10]
+
+How does chemical bonding relate to electrical conductivity?
+
+The equilibrium that exists between nitrogen(IV) oxide and dinitrogen tetroxide can be monitored by observing the color change with changing temperature:
+
+NO2 is a brown colored gas and N2O4 is colorless.
+
+Some students performed a series of simple experiments to investigate how they could change the position of the equilibrium. They recorded their qualitative observations in a data table.
+
+
+==========================================================================
+BOOK PAGE 24 — PDF PAGE 23
+==========================================================================
+
+Reaction Initial color at
+
+equilibrium Final color
+
+A Light brown Color lightens
+
+B Light brown Color darkens
+
+C Light brown Color darkens
+
+D Light brown Color lightens
+
+Interpret the data and by applying your understanding of Le Chatelier’s Principle, answer the following questions:
+
+4. a) Suggest one or more changes in reaction conditions that
+
+may have taken place at room temperature resulting in the observations for:
+
+i) Reaction A [4]
+
+ii) Reaction B [4]
+
+b) Reaction C underwent changes in the temperature of the
+
+reaction mixture. The reaction mixture was placed in a water bath at a temperature of 45°C. Predict if the reaction is endothermic or exothermic. Give reasons to support your decision. [4]
+
+c) The reaction mixture for D was placed in a bath of ice-water.
+
+Analyze the results of reaction D and comment whether these results support or contradict the decisions you made about reaction C. [3]
+
+5. Choose any of the reactions and describe the changes you would
+
+observe, if any, on the addition of a catalyst to the reaction mixture. [2]
+
+6. Suggest a possible extension to this investigation. [3]
+
+Impacts of the availability of fertilizers
+
+The Haber-Bosch process is considered by many to be one of the most important transformational technological developments of the modern age, with some of the most substantial unintended consequences.
+
+Choose one of the research tasks below and write a report as instructed.
+
+7. A significant environmental effect of the widespread use of
+
+agricultural fertilizers on our planet is eutrophication: the accelerated growth of aquatic plants and algae in bodies of water that contain excess nutrients (namely, nitrogen and phosphorous) as a result of agricultural runoff. This increased presence of plants and algae depletes the levels of dissolved oxygen in the water, referred to as hypoxia, and often leads to areas of open water that are unable to sustain life (also known as “dead zones”).
+
+BALANCE
+
+
+==========================================================================
+BOOK PAGE 25 — PDF PAGE 24
+==========================================================================
+
+As a chemical hydrologist specializing in nutrient loss strategies, you are producing a community report on the health of local watersheds. Research the specific environmental impacts and scientifically viable prevention solutions related to agricultural runoff in a river of your choice. Your report can be written, visual, or a combination of the two, and must include:
+
+● how the watershed has changed over the last 15-20 years
+
+● current measures that are being implemented to restore health to the watershed
+
+● a justified proposal for future measures that can be taken to reduce or eliminate nonpoint source pollutants.
+
+Moreover, your report should also answer the following questions:
+
+a) How can imbalanced relationships produce both local and
+
+global effects?
+
+b) What are some of the consequences (moral, ethical, and/or
+
+environmental) of infinite resources becoming finite? [20]
+
+8. Another significant effect of the widespread use of agricultural
+
+fertilizers on our planet has been a skyrocketing 20th century global population, which increased from 1.6 billion to 6 billion. At the time of print nearly two decades into the 21st century, the global population is over 7.5 billion and continues to rise.
+
+You are an ambassador with the United Nations Environment Programme working on the impact of applied nitrogen in agriculture, and advocating for the UNEP proposed “20:20 for 2020” target. The target aims to improve the efficiency use by 20 percent and to reduce its overall use by 20 million tons each year up to 2020.
+
+Write a report addressing the following points:
+
+● how and why population models have changed over the past century
+
+● current population forecasts for the next century
+
+● implications of an ever-increasing global population
+
+● a summary of proposed measures to reduce the application of nitrogen based fertilizers in agriculture.
+
+Your report should also respond to the questions:
+
+a) How can imbalanced relationships produce both local and
+
+global effects?
+
+b) What are some of the consequences (moral, ethical, and/or
+
+environmental) of finite resources becoming infinite? [20]

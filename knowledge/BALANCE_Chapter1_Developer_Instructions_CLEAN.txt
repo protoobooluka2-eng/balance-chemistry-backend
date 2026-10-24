@@ -1,0 +1,20 @@
+BALANCE CHEMISTRY — CLEAN CHAPTER 1 KNOWLEDGE PACKAGE
+
+WHAT WAS WRONG:
+The user-provided source PDF contained 34 actual PDF annotations in the first five chapter pages, including student FreeText notes and yellow highlights. These are not textbook body text. The previous Knowledge TXT was also extracted in fixed-width layout and mixed diagram symbols and annotation text into paragraphs.
+
+FILES:
+1. Oxford_MYP_Chemistry_Chapter_01_Balance_CLEAN.pdf — 24-page original chapter, with added annotations removed; retains original textbook figures/layout.
+2. BALANCE_Chapter1_Knowledge_CLEAN.txt — more readable text grouped and indexed by original textbook page number.
+
+DEVELOPER INSTRUCTIONS:
+1. DELETE/UNLINK previously indexed copies of Oxford_MYP_Chemistry_Chapter_01_Balance_Knowledge.txt and any annotated Chapter 1 PDF from the AI knowledge index.
+2. Upload/reindex the CLEAN PDF and CLEAN TXT only. Do not store both old and new versions in the same retrieval collection.
+3. Split retrieval into page-numbered chunks with headings and source metadata; build searchable embeddings or a local full-text index once, not on every question.
+4. Keep textbook page numbers distinct from PDF page numbers (book page = PDF page + 1).
+5. Use CLEAN PDF page images for diagrams, chemical formulae, and questionable OCR/extraction.
+6. Distinguish textbook content from external explanations; never treat student highlights, sticky notes, or handwritten conclusions as textbook facts.
+7. Test with: "What are examples of entropy in daily life?" and "Explain sodium chloride dissolving in water". Ensure no answer contains the unrelated note "Therefore, I have High entropy".
+8. Chemistry note: for rigorous explanations, distinguish dissolving from melting, and display dissociation as NaCl(s) -> Na+(aq) + Cl-(aq); do not blindly repeat misleading diagram text. Label this as scientific clarification rather than quotation from the source.
+9. Deploy to NIS, GPIS, BHS, and BISC using a single shared clean knowledge index, with proper school tenancy and authorized access.
+10. Do not embed the copyrighted textbook in an openly accessible public site; ensure school authorization and applicable rights.

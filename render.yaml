@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: balance-chemistry-ai
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python balance_ai_service.py
+    envVars:
+      - key: GEMINI_API_KEYS
+        sync: false
+    healthCheckPath: /api/compliance/status
